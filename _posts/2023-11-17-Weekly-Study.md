@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weekly Study 2023.11.17
+title: Weekly Study
 ---
 
 ## 产品与竞品
