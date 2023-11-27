@@ -8,12 +8,14 @@ permalink: /about/
 
 [极客时间](https://time.geekbang.org/)，永远滴神
 
-### 程序员书单
+### 推荐书单
 - 人月神话
 - 黑客与画家
 - 程序员修炼之道：从小工到专家
+- 程序员的README
+- 极简思维
 
-### 文章收藏
+### 推荐文章
 
 - [全面提升软件工程能力与实践，打造可信的高质量产品------致全体员工的一封信 任正非](https://xinsheng.huawei.com/next/#/detail?uuid=916314254852440065)
 - [如何在重复性工作中培养匠心](https://mp.weixin.qq.com/s/nG51m27twdv43FAiFSlQSA)
@@ -23,3 +25,4 @@ permalink: /about/
 - [左耳朵耗子：技术人员的发展之路](https://coolshell.cn/articles/17583.html)
 - [左耳朵耗子：程序算法和人生选择](https://coolshell.cn/articles/8790.html)
 - [从阅读到输出，我是如何用数字工具完成这一切的](https://sspai.com/post/83467)
+- [如何画出规范的 UML 用例图](https://mp.weixin.qq.com/s/PCqPETiJ3FE1gVn0c-pK5Q)
