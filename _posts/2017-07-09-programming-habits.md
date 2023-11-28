@@ -1,14 +1,9 @@
 ---
 layout: post
-title: [译]改善编程的七个习惯
-toc: true
-comment: true
-date: 2017-07-19 11:27:35
-categories: IT
-tags: 翻译
+title: 改善编程的七个习惯
 ---
 
-原文链接：https://dev.to/binarforge/seven-useful-programming-habits
+[原文链接](https://dev.to/binarforge/seven-useful-programming-habits)
 
 
 
