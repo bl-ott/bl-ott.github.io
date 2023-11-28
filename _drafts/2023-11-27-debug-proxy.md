@@ -16,7 +16,13 @@ title: 抓包
 
 ### charles配置
 
-### https配置
+
+
+### 如何抓取https请求
+
+<img src="../images/491cc88b61baf2a14345a2db192bad17.png" alt="image-20230912144034248.png" style="zoom:50%;" />
+
+<img src="../images/7b72a928100db035f83c872a8eecedef.png" alt="截图" style="zoom:50%;" />
 
 ### rewrite
 
