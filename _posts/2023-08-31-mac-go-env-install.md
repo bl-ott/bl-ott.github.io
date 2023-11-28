@@ -14,15 +14,15 @@ title: mac迁移
 
 ## 坚果云备份老电脑
 
-  ### chrome 标签
+### chrome 标签
 
-  #### Sequel Ace  数据库配置
+#### Sequel Ace  数据库配置
 
   选中多个配置后，`导出所选项目`，导出配置中不含密码，密码可以在钥匙串中查看
 
   <img src="../images/image-20231128084500840.png" alt="image-20231128084500840" style="zoom:50%;" />
 
-  ### Goland配置和 File Watcher 配置
+### Goland配置和 File Watcher 配置
 
   - 导出IDE设置
 
@@ -50,8 +50,8 @@ brew bundle dump --describe --force --file="~/Nutstore Files/我的坚果云/bac
 
 # 基础设置
 
-1. 登录apple账号
-2. 设置触摸板（三指拖拽功能在辅助功能中设置）
+- 登录apple账号
+- 设置触摸板（三指拖拽功能在辅助功能中设置）
 
 ```
 1. 选取苹果菜单  >“系统设置”（或“系统偏好设置”）。
@@ -63,17 +63,17 @@ brew bundle dump --describe --force --file="~/Nutstore Files/我的坚果云/bac
 7. 点按“好”。
 ```
 
-3. 设置触发角
+- 设置触发角
 
 <img src="../images/f5e29aded064fb8698525a795050b01e.png" alt="image-20230903120241796.png" style="zoom:50%;" />
 
-4. 设置 dock
+- 设置 dock
 
    <img src="../images/f509250ab8774da6460665cc86cbca9e.png" alt="image-20230903120257705.png" style="zoom:50%;" />
 
    <br/>
 
-5. <u>将  中/英键（Caps Lock键）修改为 ctrl 键</u>，程序员必备
+- <u>将  中/英键（Caps Lock键）修改为 ctrl 键</u>，程序员必备
 
    路径：在系统偏好设置中搜索` 修饰键`
 
@@ -95,7 +95,7 @@ brew bundle dump --describe --force --file="~/Nutstore Files/我的坚果云/bac
 /bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)"
 ```
 
-==从brew bundle中恢复之前通过brew和cask安装的软件==
+</u>从brew bundle中恢复之前通过brew和cask安装的软件</u>
 
 ```sh
 brew install mas
@@ -121,14 +121,14 @@ brew bundle --file="~/Nutstore Files/我的坚果云/backup/Brewfile"
 
 - 添加 ignore
 
-  ```
-  git config --list
-  git config --global core.excludesfile ~/.gitignore_global
-  cat ~/.gitignore_global
-  cover.out
-  coverage.xml
-  report.html
-  ```
+```
+git config --list
+git config --global core.excludesfile ~/.gitignore_global
+cat ~/.gitignore_global
+cover.out
+coverage.xml
+report.html
+```
 
 - 同时使用 github 和 gitlab
 
@@ -168,39 +168,39 @@ plugins=(git wd tmux zsh-autosuggestions zsh-syntax-highlighting)
 
 - 设置快捷键
 
-  <img src="../images/135cc239b3c97644c194a277dfcd0ac5.png" alt="image-20230903121155903.png" style="zoom:50%;" />
+<img src="../images/135cc239b3c97644c194a277dfcd0ac5.png" alt="image-20230903121155903.png" style="zoom:50%;" />
 
-  配置 `Create a Dedicated Hotkey Window` 可以通过快捷键双击ctrl出发一个半屏半透明的终端
+配置 `Create a Dedicated Hotkey Window` 可以通过快捷键双击ctrl出发一个半屏半透明的终端
 
 - 设置背景图
 
-  在 iterm2 配置中搜索`background image`
+在 iterm2 配置中搜索`background image`
 
 - zshrc 配置
 
-  ```powershell
-  alias man=tldr
-  alias krc="kratos tool rc"
-  alias klp="kratos tool lp -s"
-  alias kdb="kratos tool gdmb"
-  alias kt="kratos tool testgen"
-  alias klt="kratos tool lint run"
-  alias kg='kratos t http2grpc -deploy.env=uat -log.stdout=true -log.noagent=true'
-  alias tv-proxy="adb shell settings put global http_proxy"
-  alias tv-unproxy="tvunproxy(){adb shell settings delete global http_proxy;adb shell settings delete global global_http_proxy_host;adb shell settings delete global global_http_proxy_port;adb reboot;};tvunproxy"
-  alias tv-cap="adb shell screencap -p /sdcard/01.png && adb pull /sdcard/01.png ~/Downloads"
-  #alias colaboratory="docker run -it -p "127.0.0.1:8081:8080" -v "${HOME}:/content" gcr.io/cloud-datalab/datalab:local-20170224"
-  alias gch="git checkout"
-  alias gpl="git pull"
-  alias ll="ls -l -a"
-  alias draft="wd blob && cd _drafts && cp tmpl.md $(date +"%Y%m%d")-"
-  
-  
-  export DOCKER_BUILDKIT=0
-  export COMPOSE_DOCKER_CLI_BUILD=0
-  export PATH=$PATH:/Applications/Sublime\ Text.app/Contents/SharedSupport/bin
-  export PATH=/Users/xujun01/Library/Python/3.9/bin:$PATH
-  ```
+```powershell
+alias man=tldr
+alias krc="kratos tool rc"
+alias klp="kratos tool lp -s"
+alias kdb="kratos tool gdmb"
+alias kt="kratos tool testgen"
+alias klt="kratos tool lint run"
+alias kg='kratos t http2grpc -deploy.env=uat -log.stdout=true -log.noagent=true'
+alias tv-proxy="adb shell settings put global http_proxy"
+alias tv-unproxy="tvunproxy(){adb shell settings delete global http_proxy;adb shell settings delete global global_http_proxy_host;adb shell settings delete global global_http_proxy_port;adb reboot;};tvunproxy"
+alias tv-cap="adb shell screencap -p /sdcard/01.png && adb pull /sdcard/01.png ~/Downloads"
+#alias colaboratory="docker run -it -p "127.0.0.1:8081:8080" -v "${HOME}:/content" gcr.io/cloud-datalab/datalab:local-20170224"
+alias gch="git checkout"
+alias gpl="git pull"
+alias ll="ls -l -a"
+alias draft="wd blob && cd _drafts && cp tmpl.md $(date +"%Y%m%d")-"
+
+
+export DOCKER_BUILDKIT=0
+export COMPOSE_DOCKER_CLI_BUILD=0
+export PATH=$PATH:/Applications/Sublime\ Text.app/Contents/SharedSupport/bin
+export PATH=/Users/xujun01/Library/Python/3.9/bin:$PATH
+```
 
 <u>强烈建议将.zshrc加入git版本控制，防止误修改或误删除</u>
 
@@ -369,7 +369,7 @@ pip3 install diff_cover --user
 
 - 设置自动选择已打开文件
 
-  ![image-20230903123524831.png](../images/4d8b302d9017f89b389cf8ef53c7c0a6.png)
+![image-20230903123524831.png](../images/4d8b302d9017f89b389cf8ef53c7c0a6.png)
 
 
 #### 插件
@@ -391,7 +391,7 @@ pip3 install diff_cover --user
 
 
 
- 推荐安装以下插件
+推荐安装以下插件
 
 - 网页快开
 
