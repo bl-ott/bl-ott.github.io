@@ -3,7 +3,7 @@ layout: post
 title: mac迁移
 ---
 
-<img src="../images/124285730_0_final.png" alt="124285730_0_final" style="zoom:50%;" />
+<img src="../images/124285730_0_final.png" alt="124285730_0_final" style="zoom: 33%;" />
 
 * TOC
 {:toc}
