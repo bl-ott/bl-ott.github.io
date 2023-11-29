@@ -20,13 +20,51 @@ title: 抓包
 
 ### 如何抓取https请求
 
-<img src="../images/491cc88b61baf2a14345a2db192bad17.png" alt="image-20230912144034248.png" style="zoom:50%;" />
+ `Proxy/SSL Proxying Settings`
 
-<img src="../images/7b72a928100db035f83c872a8eecedef.png" alt="截图" style="zoom:50%;" />
+<img src="../images/image-20231129191614946.png" alt="image-20231129191614946" style="zoom: 33%;" />
 
 ### rewrite
 
+修改或重写网络请求的入参
+
+`Tools/Rewrite`
+
+<img src="../images/image-20231129191941451.png" alt="image-20231129191941451" style="zoom: 33%;" />
+
+1. 新增一个配置
+
+2. Edit Location
+
+   直接确认对所有Host、Port、Path都生效
+
+   <img src="../images/image-20231129192200716.png" alt="image-20231129192200716" style="zoom:33%;" />
+
+3. Rewrite Rule
+
+可以对Header、Host、Path、URL、Query Param等进行增删改操作，用户调试后端接口
+
+- Add Header
+- Modify Header
+- Remove Header
+- Host
+- Path
+- URL
+- Add Query Param
+- Modify Query Param
+- Remove Query Param
+- Response Status
+- Body
+
+比如下面的配置可以将接口query入参的platform字段都改成ios：
+
+<img src="../images/image-20231129192623663.png" alt="image-20231129192623663" style="zoom: 50%;" />
+
 ### remote
+
+`Tools/Map Local`
+
+用本地的json文件mock接口返回值，用于调试客户端功能
 
 
 
