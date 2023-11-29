@@ -3,14 +3,15 @@ layout: post
 title: mac迁移
 ---
 
+<img src="../images/124285730_0_final.png" alt="124285730_0_final" style="zoom:50%;" />
+
 * TOC
 {:toc}
+在提前备份好坚果云，网速良好的情况下，预计1-2小时可以完成mac迁移，直接无缝开发
 
 # 准备工作
 
 - 老mac 退出登录 apple id（重装系统不会清除 apple id）
-
-- postman 无需备份，登录账号后会自动同步
 
 ## 坚果云备份老电脑
 
@@ -50,6 +51,7 @@ brew bundle dump --describe --force --file="~/Nutstore Files/我的坚果云/bac
 
 # 基础设置
 
+- 下载坚果云，登录账号后自动同步备份过的内容到本地
 - 登录apple账号
 - 设置触摸板（三指拖拽功能在辅助功能中设置）
 
