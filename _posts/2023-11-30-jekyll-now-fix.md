@@ -13,10 +13,10 @@ title: jekyll-now博客的一些修复
 > 搭建过程如下：
 >
 > 1. 访问[jekyll-now仓库](https://github.com/barryclark/jekyll-now)
-> 2. 点击fork，仓库名填写`xxx.github.io`
-> 3. 打开你刚才fork到自己github的仓库，打开_posts文件夹，创建一个`.md`文件并填写内容
-> 4. 等待不到一分钟的时间，github会将md文件构建成html静态文件
-> 5. 访问你的博客网站`xxx.github.io`
+> 2. 点击fork，仓库名填写`xxx.github.io`（这也是你后面博客网站的网址）
+> 3. 回到你的github，打开`xxx.github.io`仓库，在`_posts`目录下创建一个`.md`文件并填写内容
+> 4. 等待不到1分钟的时间，github会自动将`md`文件构建成静态文件
+> 5. 浏览器访问`xxx.github.io`
 
 
 
