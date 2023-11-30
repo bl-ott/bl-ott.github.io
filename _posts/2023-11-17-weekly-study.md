@@ -3,7 +3,7 @@ layout: post
 title: Weekly Study
 ---
 
-<img src="../images/image-20231125091008895.png" alt="image-20231125091008895" style="zoom:50%;" />
+<img src="../images/124289635_0_final.png" alt="124289635_0_final" style="zoom:33%;" />
 
 ### 不用的代码就删掉
 

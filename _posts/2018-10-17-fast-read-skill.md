@@ -3,7 +3,7 @@ layout: post
 title: 如何快速阅读
 ---
 
-<img src="../images/124289635_0_final.png" alt="124289635_0_final" style="zoom:33%;" />
+<img src="../images/124289632_0_final.png" alt="124289632_0_final" style="zoom:33%;" />
 
 最近看了一些关于阅读技巧的书，作者本人都是爱读书并且看书贼快的，一天可以看好几本那种。
 

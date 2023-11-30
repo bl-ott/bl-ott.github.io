@@ -17,7 +17,9 @@ title: mac迁移
 
 ### chrome 标签
 
-#### Sequel Ace  数据库配置
+导出书签到坚果云
+
+### Sequel Ace  数据库配置
 
   选中多个配置后，`导出所选项目`，导出配置中不含密码，密码可以在钥匙串中查看
 
@@ -25,11 +27,11 @@ title: mac迁移
 
 ### Goland配置和 File Watcher 配置
 
-  - 导出IDE设置
+  - 导出IDE设置到坚果云
 
   <img src="../images/37346c33f3e45a9b8014e316cac44350.png" alt="截图" style="zoom:50%;" />
 
-  - 导出File Watcher设置
+  - 导出File Watcher设置到坚果云
 
     <img src="../images/image-20231128084746182.png" alt="image-20231128084746182" style="zoom:50%;" />
 

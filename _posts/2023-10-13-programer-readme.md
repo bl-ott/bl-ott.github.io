@@ -3,12 +3,10 @@ layout: post
 title:  程序员的README
 ---
 
-<img src="..//images/f75d1af195a2079384363b47ce2194b6.png" alt="截图" style="zoom:50%;" />
+<img src="../images/124366754_0_final.png" alt="124366754_0_final" style="zoom: 33%;" />
 
 * TOC
 {:toc}
-
-
 ## 云图
 
 <img src="..//images/7a144049664aed7d15e316a875b33b7f.png" alt="截图" style="zoom:50%;" />

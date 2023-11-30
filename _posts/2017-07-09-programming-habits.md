@@ -3,9 +3,9 @@ layout: post
 title: 改善编程的七个习惯(译)
 ---
 
+<img src="../images/124285514_0_final.png" alt="124285514_0_final" style="zoom:33%;" />
+
 [原文链接](https://dev.to/binarforge/seven-useful-programming-habits)
-
-
 
 > I have been reading some good books on forming habits recently. After digesting these, my mind started drifting further and I started thinking what my current habits are. Some of them are applicable to life in general, some relate only to work. Without surprise, some of them happen to be strongly related to programming, which I think might be a good thing to share.
 
