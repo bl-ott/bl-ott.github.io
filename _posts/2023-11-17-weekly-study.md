@@ -5,6 +5,10 @@ title: Weekly Study
 
 <img src="../images/124289635_0_final.png" alt="124289635_0_final" style="zoom:33%;" />
 
+## 2023.12.4
+
+
+
 ### 不用的代码就删掉
 
 ​	有人喜欢将不用的代码注释掉或者加开关，增加了阅读代码的人的心智负担	
@@ -52,6 +56,8 @@ title: Weekly Study
 -- [极客时间《玩转Git三剑客》课程](https://time.geekbang.org/course/detail/100021601-76379)
 
 ---
+
+## 2023.11.27
 
 
 
@@ -143,6 +149,8 @@ Facebook 的研发效能非常高，更是硅谷公司中的一个典范。比�
 
 
 ---
+
+## 2023.11.20
 
 
 

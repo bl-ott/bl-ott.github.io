@@ -8,6 +8,18 @@ title: jekyll-now博客的一些修复
 
 使用jekyll-now就是主打一个块，专注于内容，不浪费时间折腾花里胡哨的主题
 
+搭建一个博客网站只需要不到5分钟时间，且不需要写一行代码
+
+> 搭建过程如下：
+>
+> 1. 访问[jekyll-now仓库](https://github.com/barryclark/jekyll-now)
+> 2. 点击fork，仓库名填写`xxx.github.io`
+> 3. 打开你刚才fork到自己github的仓库，打开_posts文件夹，创建一个`.md`文件并填写内容
+> 4. 等待不到一分钟的时间，github会将md文件构建成html静态文件
+> 5. 访问你的博客网站`xxx.github.io`
+
+
+
 不过这个开源项目作者已经不维护了，有一些严重影响使用的问题，需要我们自己修复一下
 
 ### 修复代码块渲染
