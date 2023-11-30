@@ -14,12 +14,12 @@
 /**************/
 
 html {
-  font-size: 100%;
+  font-size: 85%;
 }
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 14px/1.4 $consolas;
   color: $darkGray;
 }
 
@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $consolas;
   color: $darkerGray;
   font-weight: bold;
 
@@ -110,6 +110,68 @@ img {
   max-width: 100%;
 }
 
+// Rules for displaying TABLES
+table {
+  padding: 0; }
+  table tr {
+    border-top: 1px solid #cccccc;
+    background-color: white;
+    margin: 0;
+    padding: 0; }
+    table tr:nth-child(2n) {
+      background-color: #f8f8f8; }
+    table tr th {
+      font-weight: bold;
+      border: 1px solid #cccccc;
+      text-align: left;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr td {
+      border: 1px solid #cccccc;
+      text-align: left;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr th :first-child, table tr td :first-child {
+      margin-top: 0; }
+    table tr th :last-child, table tr td :last-child {
+      margin-bottom: 0; }
+
+// Rules for displaying CODE BLOCKS
+pre {	
+font-family: "Courier 10 Pitch", Courier, monospace;
+font-size: 100%;
+line-height: 1.2em; 
+white-space: normal; 
+white-space: normal; 
+white-space: normal; 
+white-space: normal; 
+
+height:1%;
+width: auto;
+display: block;
+clear: both;
+color: #000000;
+padding: 1em 1em;
+margin: auto 40px auto 40px;
+}       
+    
+code {
+font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+font-size: 100%;
+line-height: 140%;
+white-space: normal;
+white-space: normal;
+white-space: normal;
+white-space: normal;
+// background: #ffffff;
+}
+    
+#content code {
+display: block;
+padding: 0.5em 1em;
+border: 0.5px solid #000000;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
@@ -123,11 +185,11 @@ img {
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
-  background: $lightGray;
+  background: #3297FD;
 }
 ::selection {
   color: $black;
-  background: $lightGray;
+  background: #3297FD;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -194,7 +256,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $helvetica;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -213,7 +275,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $helvetica;
   font-size: 18px;
 
   @include mobile {
@@ -257,7 +319,7 @@ nav {
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 22px;
+    font-size: 20px;
     font-style: italic;
   }
 
