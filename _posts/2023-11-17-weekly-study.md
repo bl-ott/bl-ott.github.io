@@ -13,6 +13,8 @@ title: Weekly Study
 
 ​	 SRE 需要推崇的实践是<u>保证所有的代码行都有必须存在的目的</u>
 
+
+
 -- [《卖桃者说·什么是工程师思维》](https://time.geekbang.org/column/article/155685)
 
 ### 关注口碑和体验迭代
@@ -42,6 +44,12 @@ title: Weekly Study
   
   
   -- 《[卖桃者说·马化腾谈产品》](https://time.geekbang.org/column/article/147009)
+
+### git object
+
+<img src="../images/41688e0fad4edd060198acce2e59ddcb.png" alt="截图" style="zoom:20%;" />
+
+-- [极客时间《玩转Git三剑客》课程](https://time.geekbang.org/course/detail/100021601-76379)
 
 ---
 
