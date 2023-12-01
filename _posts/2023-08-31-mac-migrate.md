@@ -1,6 +1,6 @@
 ---
 layout: post
-title: mac迁移
+title: mac迁移及配置
 ---
 
 <img src="../images/124285730_0_final.png" alt="124285730_0_final" style="zoom: 33%;" />
