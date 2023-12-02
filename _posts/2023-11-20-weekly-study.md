@@ -5,9 +5,9 @@ title: Weekly Study
 
 <img src="../images/124289635_0_final.png" alt="124289635_0_final" style="zoom:33%;" />
 
+> 记录每周阅读发现的一些值得分享的内容，感兴趣的可以点击链接查看全文
+
 ## 2023.12.4
-
-
 
 ### 故障处理方法
 
@@ -29,8 +29,6 @@ title: Weekly Study
 
 ### 知识错觉
 
-
-
 >"知识错觉"（the illusion of knowledge）指的是，**你自以为懂得或掌握了某种知识和技能，但是实际上并不懂**。
 >
 >最近的一项研究表明，互联网可能会助长人们的"知识错觉"，过度自信自己的技能水平。
@@ -45,7 +43,7 @@ title: Weekly Study
 >
 >**程序员尤其要小心这种错觉，千万不要看完教材或文档，就认为自己掌握了某项技能，一定要自己动手用它做过项目，才算学会。**
 >
->-- [《The 'illusion of knowledge' that makes people overconfident》](https://www.bbc.com/worklife/article/20220812-the-illusion-of-knowledge-that-makes-people-overconfident)
+>-- [《科技爱好者周刊（第 280 期》](https://www.ruanyifeng.com/blog/2023/12/weekly-issue-280.html)
 
 如何应对知识错觉：
 
@@ -94,13 +92,20 @@ title: Weekly Study
 >
 >  -- 《[卖桃者说·马化腾谈产品》](https://time.geekbang.org/column/article/147009)
 
-从另一个角度说明了开发人员对产品业务的影响，开发作为第一个使用产品的用户，对产品的使用体验有发言权
+从另一个角度说明了开发人员对产品业务的影响，**开发作为第一个使用产品的用户**，对产品的使用体验有发言权
 
 ### git object
 
-<img src="../images/41688e0fad4edd060198acce2e59ddcb.png" alt="截图" style="zoom:20%;" />
+><img src="../images/41688e0fad4edd060198acce2e59ddcb.png" alt="截图" style="zoom:20%;" />
+>
+>-- [极客时间《玩转Git三剑客》课程](https://time.geekbang.org/course/detail/100021601-76379)
 
--- [极客时间《玩转Git三剑客》课程](https://time.geekbang.org/course/detail/100021601-76379)
+```sh
+git cat-file -t <commit>
+git cat-file -p <commit>
+```
+
+[更多git内容查看](https://bl-ott.github.io/git-study/)
 
 ---
 
