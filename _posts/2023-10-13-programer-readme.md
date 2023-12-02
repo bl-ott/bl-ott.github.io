@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  程序员的README读书笔记
+title:  程序员的README
 ---
 
 <img src="../images/124366754_0_final.png" alt="124366754_0_final" style="zoom: 33%;" />
+
+> 《程序员的README》读书笔记
 
 * TOC
 {:toc}
