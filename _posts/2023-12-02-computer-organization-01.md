@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 计算机组成原理01计算机是怎样跑起来的
+title: 计算机组成原理01：计算机是怎样跑起来的
 ---
 
 <img src="../images/124901356_0_final.png" alt="124901356_0_final" style="zoom:33%;" />
