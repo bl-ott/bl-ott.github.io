@@ -29,19 +29,19 @@ title: Weekly Study
 
 1. test yourself 做一项不熟悉的任务时，不要只是做一个大概的方案，应该具体到每一步如何实施
 
-2. 跟专家交流
+2. 多跟专家交流
 
    
 
--- [The 'illusion of knowledge' that makes people overconfident](https://www.bbc.com/worklife/article/20220812-the-illusion-of-knowledge-that-makes-people-overconfident)
+-- [《The 'illusion of knowledge' that makes people overconfident》](https://www.bbc.com/worklife/article/20220812-the-illusion-of-knowledge-that-makes-people-overconfident)
 
 ### 不用的代码就删掉
 
-​	有人喜欢将不用的代码注释掉或者加开关，增加了阅读代码的人的心智负担	
+有人喜欢将不用的代码注释掉或者加开关，增加了阅读代码的人的心智负担	
 
-​	源代码管理系统中的回滚其实很容易，但大量的注释代码则会造成干扰和混乱，尤其是我们还要继续演进时。那些<u>由于功能开关没有启用而没有被执行的代码，更是像一个个定时炸弹一样等待爆炸</u>
+源代码管理系统中的回滚其实很容易，但大量的注释代码则会造成干扰和混乱，尤其是我们还要继续演进时。那些<u>由于功能开关没有启用而没有被执行的代码，更是像一个个定时炸弹一样等待爆炸</u>
 
-​	 **SRE 需要推崇的实践是保证所有的代码行都有必须存在的目的**
+ **SRE 需要推崇的实践是保证所有的代码行都有必须存在的目的**
 
 
 
