@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  程序员的README
+title:  程序员的README读书笔记
 ---
 
 <img src="../images/124366754_0_final.png" alt="124366754_0_final" style="zoom: 33%;" />
