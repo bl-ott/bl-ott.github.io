@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weekly Study
+title: 学习摘要
 ---
 
 <img src="../images/124289635_0_final.png" alt="124289635_0_final" style="zoom:33%;" />
