@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 改善编程的七个习惯(译)
+title: 改善编程的七个习惯-翻译
 ---
 
 <img src="../images/124285514_0_final.png" alt="124285514_0_final" style="zoom:33%;" />

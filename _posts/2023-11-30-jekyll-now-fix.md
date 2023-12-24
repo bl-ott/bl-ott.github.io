@@ -1,7 +1,6 @@
 ---
 layout: post
 title: jekyll-now博客的一些修复
-
 ---
 
 <img src="../images/124388790_0_final.png" alt="124388790_0_final" style="zoom:33%;" />

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 读书笔记：极简思维
+title: 极简思维-读书笔记
 ---
 
 <img src="../images/s29845625.jpg" alt="img" style="zoom:33%;" />

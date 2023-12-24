@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 读书笔记：非暴力沟通
-
+title: 非暴力沟通-读书笔记
 ---
 
 <img src="../images/quality,Q_70.jpeg" alt="img" style="zoom:63%;" />
